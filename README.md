@@ -6,6 +6,6 @@ This repository is for the paper "NGCN: Drug-Target Interaction Prediction by In
 
 ## Description
 
-The data used in NGCN are available at: 'data/' folder.
+The data used in NGCN are available at: 'NGCN/data/' folder.
 
 Code about clusDCA can be accessed on GitHub at: https://github.com/wangshenguiuc/clusDCA.
